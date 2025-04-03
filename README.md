@@ -12,7 +12,7 @@ This Flutter application is developed as a school survey assessment task given b
 1. Ensure you have Flutter installed: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/flutter-school-survey.git
+   git clone https://github.com/ab-irami/school-survey.git
    ```
 3. Navigate to the project directory:
    ```sh
