@@ -45,9 +45,3 @@ This Flutter application is developed as a school survey assessment task given b
 - **utils** - Common extensions, widgets, and app themes
 - **routes** - Application routes
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, feel free to reach out via [your-email@example.com] or open an issue on GitHub.
-
