@@ -9,20 +9,19 @@ This Flutter application is developed as a school survey assessment task given b
 - **State Management with Riverpod**: Validated school data is stored in a separate state list upon pressing the 'Next' button, managed efficiently using Riverpod.
 
 ## Installation
-1. Ensure you have Flutter installed: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-2. Clone this repository:
+1. Clone this repository: (Optional)
    ```sh
    git clone https://github.com/ab-irami/school-survey.git
    ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```sh
-   cd flutter-school-survey
+   cd school-survey
    ```
-4. Install dependencies:
+3. Install dependencies:
    ```sh
    flutter pub get
    ```
-5. Run the app:
+4. Run the app:
    ```sh
    flutter run
    ```
